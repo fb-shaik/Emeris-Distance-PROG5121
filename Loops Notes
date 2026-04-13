@@ -1,0 +1,37 @@
+Loops 
+- Loops are used to repeat a block of code multiple times
+
+1. While Loop / unknown amount of rept.
+    - Checks the condition first
+    - If the condition is true, it will run the code block
+    - Repeats until the condition becomes false
+
+    Syntax: 
+    while (condition) 
+        { // code to repeat }
+
+ 2. Do-While Loop / must happen once
+    - Runs the code at least once
+    - Then checks the condition
+
+    Syntax:
+        do {
+            //code 
+        } while (condition)
+***Even if the condition is false, it runs once***
+
+3. for Loop / fixed number of rept. 
+    - Defined number of times loop 
+    - Start value, Check condition, Run code, Update value
+
+    Syntax:
+        for (initialization; condition; update)
+        {
+            code to repeat 
+        }
+
+4. For Each Loop (Array)
+Syntax: for (dataType variableName : arrayName)
+{
+    code to be repeated
+}

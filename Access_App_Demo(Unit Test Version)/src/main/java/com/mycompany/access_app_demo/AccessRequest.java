@@ -2,7 +2,7 @@
 package com.mycompany.access_app_demo;
 /**
  * ============================================
- * CLASS: AccessRequest
+ AccessRequest
  * ============================================
  * This class represents a request to enter
  * a restricted archive system.
